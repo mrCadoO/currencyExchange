@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "a3b1ba0b7adf1fb71a18bcf70540623c",
+    "packages": [
+        {
+            "name": "wangcj/helloworld",
+            "version": "6.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/qqzj/helloworld.git",
+                "reference": "37bac11f55561497565c0b98243d18143d4b4db6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/qqzj/helloworld/zipball/37bac11f55561497565c0b98243d18143d4b4db6",
+                "reference": "37bac11f55561497565c0b98243d18143d4b4db6",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "wangcj\\helloworld\\": "wangcj/helloworld/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "wangchaojie",
+                    "email": "popxmz@Gmail.com"
+                }
+            ],
+            "description": "Just a demo for composer",
+            "time": "2018-09-06T10:46:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

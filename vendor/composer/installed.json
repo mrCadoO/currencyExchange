@@ -1,0 +1,34 @@
+[
+    {
+        "name": "wangcj/helloworld",
+        "version": "6.0.1",
+        "version_normalized": "6.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/qqzj/helloworld.git",
+            "reference": "37bac11f55561497565c0b98243d18143d4b4db6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/qqzj/helloworld/zipball/37bac11f55561497565c0b98243d18143d4b4db6",
+            "reference": "37bac11f55561497565c0b98243d18143d4b4db6",
+            "shasum": ""
+        },
+        "time": "2018-09-06T10:46:54+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "wangcj\\helloworld\\": "wangcj/helloworld/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "wangchaojie",
+                "email": "popxmz@Gmail.com"
+            }
+        ],
+        "description": "Just a demo for composer"
+    }
+]
